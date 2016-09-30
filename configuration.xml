@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<mappingSet1 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <headString>Enum	outpus
+</headString>
+  <tailString>End Enum
+</tailString>
+  <fullFormat>	{0:G}								=	{1:G}		'	{2:G}	
+</fullFormat>
+  <simpleFormat>	{0:G}								=	{1:G}
+</simpleFormat>
+  <nameColumn>0</nameColumn>
+  <idColumn>1</idColumn>
+  <comment>2</comment>
+  <sheetIndex>0</sheetIndex>
+</mappingSet1>
